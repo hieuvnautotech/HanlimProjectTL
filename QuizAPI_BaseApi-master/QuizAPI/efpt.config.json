@@ -1,0 +1,169 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "BaseDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "QuizAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[dbo].[Bom]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Buyer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DeliveryOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ForecastPO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ForecastPOMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Line]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Location]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Material]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Material_Buyer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Material_Supplier]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Mold]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PODetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PurchaseOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QC]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QCDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QCMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Staff]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Supplier]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_CommonDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_CommonMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Document]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Permission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_RefreshToken]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Role_Menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Role_Permission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_User_Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sysTbl_Version_App]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tray]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WorkOrder]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "WIN-1FKBH42A88Q.RootDatabase",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
